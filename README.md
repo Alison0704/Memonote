@@ -1,6 +1,3 @@
 # Memonote
 ### A note taking app aimed at improving productivity of students.
-This is also a test project to prove myself or others that small daily tasks completed will have a greater impact than expected.
-
-This project has been in the back of my mind for years now, waiting for that "perfect" moment to finally start it.
-And, I'm already on the tail end of my academic university years.
+A productivity-focused note-taking application designed to enhance students' efficiency. It serves as a testament to the transformative power of consistently accomplishing small daily tasks, a concept I've contemplated for years. This endeavor has long simmered in my thoughts, and now, as I near the conclusion of my university education, the time has arrived to initiate it.
